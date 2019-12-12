@@ -1,0 +1,6 @@
+Discrete Mathematics.
+
+
+Shift ciphers have been in use for thousands of years, most famously by the Roman emperors, in particular, by Julius Caesar.
+
+However, this time in Fall 2019, it is the turn of warriors from Batch 28 to hide the message, keeping it safe from other batches in GIK Institute.
